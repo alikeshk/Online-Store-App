@@ -51,4 +51,4 @@ If you have any questions or need assistance, feel free to reach out to any of o
 
 ## Note For Running the App
 
-To connect to your own database, navigate to the `appsettings.json` file and enter your database connection string as the value for the `"ShoppingAppCon"` key. The SQL scripts to create tables and dummy data can be found in the directory `Online-Store-App/Store-App/SQL_Scripts/`.
+To connect to your own database, navigate to the `Online-Store-App/Store-App/appsettings.json` file and enter your database connection string as the value for the `"ShoppingAppCon"` key. The SQL scripts to create tables and dummy data can be found in the directory `Online-Store-App/Store-App/SQL_Scripts/`.
